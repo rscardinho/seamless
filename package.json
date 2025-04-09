@@ -1,0 +1,24 @@
+{
+  "name": "seamless-theme",
+  "displayName": "seamless",
+  "description": "Make your VSCode look seamless",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "scripts": {
+    "prepack": "node build.js"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Seamless - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Seamless - Dark-color-theme.json"
+      }
+    ]
+  }
+}

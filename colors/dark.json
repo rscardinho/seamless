@@ -1,0 +1,18 @@
+{
+  "main": "#1c1b1d",
+  "inactive": "#232224",
+  "lineNumber": "#333135",
+  "info": "#459aff",
+  "info-o-70": "#459aff70",
+  "info-o-90": "#459aff90",
+  "green": "#63e1b3",
+  "green-o-20": "#63e1b320",
+  "green-o-25": "#63e1b325",
+  "gray": "#a2a2a2",
+  "error": "#a41313",
+  "error-o-50": "#a4131350",
+  "accent": "#f4a950",
+  "accent-o-40": "#f4a95040",
+  "accent-o-50": "#f4a95050",
+  "warning": "#ff7145"
+}
